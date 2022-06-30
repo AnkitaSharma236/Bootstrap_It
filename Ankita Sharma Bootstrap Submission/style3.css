@@ -1,0 +1,135 @@
+
+
+*{
+	font-family: montserrat;
+}
+
+.logo{
+	font-size:40px;
+	color:red;
+	font-family: belgrano;
+	text-shadow: 1px 1px white;
+	font-style: bold;
+	margin-right: 60px;
+
+}
+
+
+.links{
+	
+	font-size: 20px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.links:hover{
+	color:red;
+	font-style: italic;
+	font-family: belgrano;
+	text-decoration: underline;
+}
+
+
+.button_style{
+	font-size: 20px;
+
+}
+
+.button_style:hover{
+ 	
+ 	color:black;
+ 	text-decoration: underline;
+ 	font-style:italic;
+ }
+
+.btn_CV{
+    background-color:red;
+    color:white;
+    font-size:35px;
+    margin-top:50px;
+    margin-bottom:30px;
+    border-radius:350px;
+
+   } 
+
+ .btn_CV:hover{
+ 	background-color:blue;
+ 	color:yellow;
+ 	text-decoration: underline;
+ 	font-style:italic;
+ }
+
+
+.photo_carousel{
+	font-size:107px;
+	color:white;
+	font-style:bold;
+	position:top;
+	text-align:left;
+	left:0px;
+	text-decoration:underline;
+	text-shadow: 5px 5px red;
+
+}
+
+
+#services_offered{
+	margin-top;30px;
+	background-color: darkturquoise;
+}
+
+.services_column{
+	padding:20px;
+	text-align:center;
+	background-color: darkturquoise;
+}
+
+#services_head{
+	font-size: 50px;
+	padding:20px;
+	text-decoration:underline;
+	text-align:center;
+	color:white;
+}
+
+#head_photo{
+	font-size:25px;
+	text-decoration:underline;
+	color:white;
+	margin-bottom:30px;
+	text-align:center;
+}
+
+.lorem_data{
+	font-size:18px;
+
+}
+
+#know_more{
+	text-align:center;
+	font-size:18px;
+	color:red;
+	font-style:bold;
+	text-decoration:underline;
+}
+
+#know_more:hover{
+	color:blue;
+	font-style:italic;
+	text-align:center;
+
+}
+
+
+.foot{
+	font-size:20px;
+	margin-right:100px;
+	margin-left:100px;
+}
+
+.foot:hover{
+	color:red;
+	font-style: italic;
+	font-family: belgrano;
+	text-decoration: underline;
+}
